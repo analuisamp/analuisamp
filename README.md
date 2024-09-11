@@ -7,7 +7,6 @@
  ##  GitHub Status
  
  <div>
-   <img align="center" src="https://github-readme-stats.vercel.app/api?username=analuisamp&show_icons=true&theme=cobalt)" />
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=analuisamp&layout=compact&langs_count=7&theme=cobalt" alt="Gift's language" height="187px"  width="350px"/>
 </div>
 
